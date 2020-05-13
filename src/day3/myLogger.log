@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-05-13T21:43:53</date>
+  <millis>1589386433042</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>day3.LogExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>My first log</message>
+</record>
+<record>
+  <date>2020-05-13T21:43:53</date>
+  <millis>1589386433063</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>day3.LogExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>My second log</message>
+</record>
+<record>
+  <date>2020-05-13T21:43:53</date>
+  <millis>1589386433063</millis>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>day3.Test</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>I'm from another class</message>
+</record>
+<record>
+  <date>2020-05-13T21:43:53</date>
+  <millis>1589386433064</millis>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>day3.LogExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>A fake error occurred mate!</message>
+  <exception>
+    <message>java.io.IOException: Fake error message</message>
+    <frame>
+      <class>day3.LogExample</class>
+      <method>main</method>
+      <line>44</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-05-13T21:44:54</date>
+  <millis>1589386494081</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>day3.LogExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>My first log</message>
+</record>
+<record>
+  <date>2020-05-13T21:44:54</date>
+  <millis>1589386494119</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>day3.LogExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>My second log</message>
+</record>
+<record>
+  <date>2020-05-13T21:44:54</date>
+  <millis>1589386494119</millis>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>day3.Test</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>I'm from another class</message>
+</record>
+<record>
+  <date>2020-05-13T21:44:54</date>
+  <millis>1589386494120</millis>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>SEVERE</level>
+  <class>day3.LogExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>A fake error occurred mate!</message>
+  <exception>
+    <message>java.io.IOException: Fake error message</message>
+    <frame>
+      <class>day3.LogExample</class>
+      <method>main</method>
+      <line>44</line>
+    </frame>
+  </exception>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-05-13T21:45:24</date>
+  <millis>1589386524820</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>day3.LogExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>My first log</message>
+</record>
+<record>
+  <date>2020-05-13T21:45:24</date>
+  <millis>1589386524839</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>FINE</level>
+  <class>day3.LogExample</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>My second log</message>
+</record>
+<record>
+  <date>2020-05-13T21:45:24</date>
+  <millis>1589386524840</millis>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>day3.Test</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>I'm from another class</message>
+</record>
+</log>
