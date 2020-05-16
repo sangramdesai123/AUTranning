@@ -5,7 +5,7 @@ class MNThread extends Thread{
     static Integer num = 1;
     public void run(){
         while(num <= 100){
-
+        	//sync the number 
             synchronized(num){
 
                 System.out.println(name + " " +num);
